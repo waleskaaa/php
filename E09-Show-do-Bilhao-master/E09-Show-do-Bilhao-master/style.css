@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(252, 165, 179);
+      
+}
+
+main{
+    display: block;
+    margin: auto;
+    text-align: center;
+    
+}
+
+h1, img{
+    padding: 20px;
+}
+
+input{
+    margin: 5px;
+}
+
+.botao{
+    margin: 20px;
+    width: 80px;
+    height: 30px;
+}
+
+
+footer{
+    display: block;
+    margin: auto;
+    text-align: center;
+
+    position: absolute;
+    bottom: 0px;
+    left: 43.5%;
+}
+
+.login_footer{
+    position: absolute;
+    bottom: 0px;
+    left: 47%;
+}
+

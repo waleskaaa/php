@@ -1,0 +1,22 @@
+[
+    {
+        "enunciado": "Qual filme Barbie uma garota órfã é sorteada para estudar em uma escola especial?",
+        "alternativas": ["Barbie e o segredo das fadas", "Barbie a princesa e a popstar", "Barbie escola de princesas", "Barbie e o castelo de diamante"],
+        "resposta": 4
+    },
+    {
+        "enunciado": "Qual filme Barbie a pequena princesa Rosella cresce numa ilha deserta?",
+        "alternativas": ["Barbie moda e magia", "Barbie em a princesa da ilha", "Barbie e o castelo de diamantes", "Barbie em a princesa e a plebeia"],
+        "resposta": 2
+    },
+    {
+        "enunciado": "Qual o nome da irmã mais nova da Barbie?",
+        "alternativas": ["Skipper", "Stacie", "Chelsea", "Raquelle"],
+        "resposta": 3
+    },
+    {
+        "enunciado": "Qual o nome da série da Barbie?",
+        "alternativas": ["Pinkhouse", "Dreamhouse", "Barbie e o castelo de diamantes", "Barbie"],
+        "resposta": 2
+    }
+]

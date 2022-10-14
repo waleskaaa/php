@@ -1,0 +1,20 @@
+[
+    {
+        "name": "isa",
+        "password": "123",
+        "email": "isa@email",
+        "login": "isaa"
+    },
+    {
+        "name": "leticia",
+        "password": "1234",
+        "email": "leticiahtinhah@hotmail.com",
+        "login": "lelecaro"
+    },
+    {
+        "name": "jao",
+        "password": "abc",
+        "email": "jao@email",
+        "login": "jao"
+    }
+]
